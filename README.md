@@ -1,7 +1,6 @@
 # Hi 👋, I'm Hayfa Jbili
 
-### Full Stack & DevOps Engineer | Spring Boot & Angular | DevOps & Cloud Enthusiast
-
+###Fullstack Engineer (Spring Boot & Angular) | Building Scalable Real-World Applications | AI & Automation Enthusiast
 📍 Tunis, Tunisia &nbsp;|&nbsp; 🎓 ESPRIT Engineering School &nbsp;|&nbsp; 💼 Manager @ TCodeX
 
 ---
